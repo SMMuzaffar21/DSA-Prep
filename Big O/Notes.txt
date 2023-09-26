@@ -11,4 +11,5 @@ O(n^2) => Nested for loop, loop within a loop               [O(n^2)+O(n^2)=O(2n^
 O(1) => some cases where the number of steps is 1
 O(log n) => applicable for sorted array, Divide and conquer
 O(n log n) => for some sorts like merge and quick sort, constant time
+O(n!) => Worst case
 
